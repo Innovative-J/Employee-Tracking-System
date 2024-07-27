@@ -20,7 +20,7 @@ There are no installations required to run the application.
 
 ## Usage
 
-The application presents the user with a list of options that revolve around departments, employees, roles and salary. Options also include viewing and updating each section navigating throw the command line using arrow keys while also being prompted to logout of the program.
+The application presents the user with a list of options that revolve around departments, employees, roles and salary. Options also include viewing and updating each section navigating throw the command line using arrow keys while also being prompted to logout of the program. Demo video [https://drive.google.com/file/d/1hA-LZPWtTIbw3TJ0si6TUjCDHIg-iYxF/view]
 
 ## License
 
